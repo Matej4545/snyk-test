@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "tinymce": "^4.9.11",
+    "tinymce": "^5.10.8",
     "underscore": "^1.13.6"
   }
 }
