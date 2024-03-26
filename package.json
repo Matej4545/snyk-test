@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "tinymce": "^4.9.11",
     "underscore": "^1.13.6"
   }
